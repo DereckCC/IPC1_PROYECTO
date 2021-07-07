@@ -1,0 +1,186 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza",
+        "description": "Pizza Hawaiana con queso",
+        "cost": 40,
+        "price": 50,
+        "ingredients": [
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }, 
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }, 
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }, 
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }, 
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }, 
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }
+        ]
+    }, 
+    {
+        "id": 2,
+        "name": "Hamburguesa",
+        "description": "Pizza Hawaiana con queso",
+        "cost": 40,
+        "price": 50,
+        "ingredients": [
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }, 
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }, 
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }, 
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Hamburguesa",
+        "description": "Pizza Hawaiana con queso",
+        "cost": 40,
+        "price": 50,
+        "ingredients": [
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }, 
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }, 
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }, 
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Hamburguesa",
+        "description": "Pizza Hawaiana con queso",
+        "cost": 40,
+        "price": 50,
+        "ingredients": [
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }, 
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }, 
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }, 
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Hamburguesa",
+        "description": "Pizza Hawaiana con queso",
+        "cost": 40,
+        "price": 50,
+        "ingredients": [
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }, 
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }, 
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }, 
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Hamburguesa",
+        "description": "Pizza Hawaiana con queso",
+        "cost": 40,
+        "price": 50,
+        "ingredients": [
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }, 
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }, 
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }, 
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }
+        ]
+    }                    
+]
